@@ -1,0 +1,14 @@
+E:\DevC#SVNT\Sesson01\Sesson01\bin\Debug\net8.0\Sesson01.exe
+E:\DevC#SVNT\Sesson01\Sesson01\bin\Debug\net8.0\Sesson01.deps.json
+E:\DevC#SVNT\Sesson01\Sesson01\bin\Debug\net8.0\Sesson01.runtimeconfig.json
+E:\DevC#SVNT\Sesson01\Sesson01\bin\Debug\net8.0\Sesson01.dll
+E:\DevC#SVNT\Sesson01\Sesson01\bin\Debug\net8.0\Sesson01.pdb
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.AssemblyInfoInputs.cache
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.AssemblyInfo.cs
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.csproj.CoreCompileInputs.cache
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.dll
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\refint\Sesson01.dll
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.pdb
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\Sesson01.genruntimeconfig.cache
+E:\DevC#SVNT\Sesson01\Sesson01\obj\Debug\net8.0\ref\Sesson01.dll
