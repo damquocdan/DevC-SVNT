@@ -1,0 +1,15 @@
+E:\DevC#SVNT\Sesson2\Lab02.8\bin\Debug\net8.0\Lab02.8.exe
+E:\DevC#SVNT\Sesson2\Lab02.8\bin\Debug\net8.0\Lab02.8.deps.json
+E:\DevC#SVNT\Sesson2\Lab02.8\bin\Debug\net8.0\Lab02.8.runtimeconfig.json
+E:\DevC#SVNT\Sesson2\Lab02.8\bin\Debug\net8.0\Lab02.8.dll
+E:\DevC#SVNT\Sesson2\Lab02.8\bin\Debug\net8.0\Lab02.8.pdb
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.AssemblyInfoInputs.cache
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.AssemblyInfo.cs
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.csproj.CoreCompileInputs.cache
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.sourcelink.json
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.dll
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\refint\Lab02.8.dll
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.pdb
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\Lab02.8.genruntimeconfig.cache
+E:\DevC#SVNT\Sesson2\Lab02.8\obj\Debug\net8.0\ref\Lab02.8.dll
