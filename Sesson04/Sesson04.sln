@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sesson04", "Sesson04\Sesson04.csproj", "{672FDEE5-AFAB-4ACE-A655-46D15FC254BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sesson04", "Sesson04\Sesson04.csproj", "{672FDEE5-AFAB-4ACE-A655-46D15FC254BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTlab04.3", "BTlab04.3\BTlab04.3.csproj", "{F3D108B9-B3FD-456F-ABAB-88584B28FBCC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{672FDEE5-AFAB-4ACE-A655-46D15FC254BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{672FDEE5-AFAB-4ACE-A655-46D15FC254BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{672FDEE5-AFAB-4ACE-A655-46D15FC254BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D108B9-B3FD-456F-ABAB-88584B28FBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D108B9-B3FD-456F-ABAB-88584B28FBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D108B9-B3FD-456F-ABAB-88584B28FBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D108B9-B3FD-456F-ABAB-88584B28FBCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

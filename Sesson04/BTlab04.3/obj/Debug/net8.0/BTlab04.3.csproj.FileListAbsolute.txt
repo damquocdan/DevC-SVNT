@@ -1,0 +1,15 @@
+E:\DevC#SVNT\Sesson04\BTlab04.3\bin\Debug\net8.0\BTlab04.3.exe
+E:\DevC#SVNT\Sesson04\BTlab04.3\bin\Debug\net8.0\BTlab04.3.deps.json
+E:\DevC#SVNT\Sesson04\BTlab04.3\bin\Debug\net8.0\BTlab04.3.runtimeconfig.json
+E:\DevC#SVNT\Sesson04\BTlab04.3\bin\Debug\net8.0\BTlab04.3.dll
+E:\DevC#SVNT\Sesson04\BTlab04.3\bin\Debug\net8.0\BTlab04.3.pdb
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.AssemblyInfoInputs.cache
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.AssemblyInfo.cs
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.csproj.CoreCompileInputs.cache
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.sourcelink.json
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.dll
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\refint\BTlab04.3.dll
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.pdb
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\BTlab04.3.genruntimeconfig.cache
+E:\DevC#SVNT\Sesson04\BTlab04.3\obj\Debug\net8.0\ref\BTlab04.3.dll

@@ -1,0 +1,15 @@
+E:\DevC#SVNT\Sesson04\Sesson04\bin\Debug\net8.0\Sesson04.exe
+E:\DevC#SVNT\Sesson04\Sesson04\bin\Debug\net8.0\Sesson04.deps.json
+E:\DevC#SVNT\Sesson04\Sesson04\bin\Debug\net8.0\Sesson04.runtimeconfig.json
+E:\DevC#SVNT\Sesson04\Sesson04\bin\Debug\net8.0\Sesson04.dll
+E:\DevC#SVNT\Sesson04\Sesson04\bin\Debug\net8.0\Sesson04.pdb
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.AssemblyInfoInputs.cache
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.AssemblyInfo.cs
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.csproj.CoreCompileInputs.cache
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.sourcelink.json
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.dll
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\refint\Sesson04.dll
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.pdb
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\Sesson04.genruntimeconfig.cache
+E:\DevC#SVNT\Sesson04\Sesson04\obj\Debug\net8.0\ref\Sesson04.dll
