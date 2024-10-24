@@ -1,0 +1,15 @@
+E:\DevC#SVNT\BTlab07\Lab07.1\bin\Debug\net8.0\Lab07.1.exe
+E:\DevC#SVNT\BTlab07\Lab07.1\bin\Debug\net8.0\Lab07.1.deps.json
+E:\DevC#SVNT\BTlab07\Lab07.1\bin\Debug\net8.0\Lab07.1.runtimeconfig.json
+E:\DevC#SVNT\BTlab07\Lab07.1\bin\Debug\net8.0\Lab07.1.dll
+E:\DevC#SVNT\BTlab07\Lab07.1\bin\Debug\net8.0\Lab07.1.pdb
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.AssemblyInfoInputs.cache
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.AssemblyInfo.cs
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.csproj.CoreCompileInputs.cache
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.sourcelink.json
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.dll
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\refint\Lab07.1.dll
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.pdb
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\Lab07.1.genruntimeconfig.cache
+E:\DevC#SVNT\BTlab07\Lab07.1\obj\Debug\net8.0\ref\Lab07.1.dll
