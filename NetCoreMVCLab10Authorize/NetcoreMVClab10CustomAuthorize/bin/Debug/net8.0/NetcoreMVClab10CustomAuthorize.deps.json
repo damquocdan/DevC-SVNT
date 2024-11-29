@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NetcoreMVClab10CustomAuthorize/1.0.0": {
+        "runtime": {
+          "NetcoreMVClab10CustomAuthorize.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetcoreMVClab10CustomAuthorize/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
